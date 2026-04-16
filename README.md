@@ -1,2 +1,1 @@
-# djangular
-Djangular
+# Djangular
